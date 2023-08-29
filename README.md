@@ -48,9 +48,9 @@
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use schema.sql to create all tables.
-- Use data.sql to populate tables with sample data.
-- Check queries.sql for examples of queries that can be run on a newly created database. Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!
+- Use [schema.sql](https://github.com/melkamu12/vet_clinic/blob/animals-table/Schema.sql) to create all tables.
+- Use [data.sql](https://github.com/melkamu12/vet_clinic/blob/animals-table/data.sql) to populate tables with sample data.
+- Check [queries.sql](https://github.com/melkamu12/vet_clinic/blob/animals-table/data.sql) for examples of queries that can be run on a newly created database. Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!
 
 ### Prerequisites
 
