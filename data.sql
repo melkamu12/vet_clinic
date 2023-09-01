@@ -17,11 +17,11 @@ VALUES
 INSERT INTO owners (full_name, age)
 VALUES
     ('Sam Smith', 34),
-	('Jennifer Orwell', 34),
-	('Bob', 34),
-	('Melody Pond', 34),
-	('Dean Winchester', 34),
-	('Jodie Whittaker', 34);
+	('Jennifer Orwell', 19),
+	('Bob', 45),
+	('Melody Pond', 77),
+	('Dean Winchester', 14),
+	('Jodie Whittaker', 38);
 
 INSERT INTO species (name)
 VALUES
